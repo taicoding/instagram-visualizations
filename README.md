@@ -6,6 +6,6 @@ Hace poco empecé un proyecto personal con fines educativos en Instagram donde r
 ## Obteniendo los datos
 Primero solicitamos la información de nuestra cuenta de instagram ingresando al siguiente enlace: siguientehttps://www.instagram.com/accounts/privacy_and_security/
 Una vez que nos autenticamos veremos lo siguiente:
-
+![alt text](https://miro.medium.com/max/700/1*KVeorxvitQWrFFMXeXM-hQ.png)
 
 Vamos a la sección Data Download para solicitar una copia de nuestros datos y esto nos llevará a la siguiente página donde nos muestra la dirección de email a la que será enviada la copia.
