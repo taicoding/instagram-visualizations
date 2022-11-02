@@ -1,5 +1,7 @@
 # Word cloud de seguidores de Instagram
-Hace poco empecé un proyecto personal con fines educativos en Instagram donde regularmente público tarjetas con tips de programacion en Python. Llegue a los 500 seguidores esta semana y me pareció digno de celebración. Me puse como objetivo hacer un word cloud con los nombres de mis seguidores, el problema era cómo obtener esa información.
+Hace poco empecé un proyecto personal con fines educativos en Instagram donde regularmente público tarjetas con tips de programación en Python. 
+Llegue a los 1100 seguidores el mes pasado y me un buen momento para actualizar este proyecto en vista de que la configuración de descarga de datos de Instragram ha cambiado. 
+Me puse como objetivo hacer un word cloud con los nombres de mis seguidores, el problema era cómo obtener esa información.
 
 ¿Tendré que hacer web scrapping? ¿Podre descargar mi información de Instagram? Esas fueron algunas de las preguntas que me hice al momento de plantearme el problema y tras revisar un poco la aplicación y descubrí cómo descargar los datos fácilmente.
 
